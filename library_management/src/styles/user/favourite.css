@@ -1,0 +1,42 @@
+.favourites{
+    margin-top: 150px;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Pacifico', cursive;
+}
+.favourites h1{
+    font-size: 40px;
+    margin-top: 0px;
+}
+.fav_book span{
+    margin: 0px;
+    font-weight:600;
+    font-size: 18px;
+}
+.fav_book{
+    border: 1px solid white;
+    width: 250px;
+    padding: 8px 0px 8px 8px;
+    margin-left: 40px;
+    box-shadow: 2px 2px 10px rgb(206, 206, 206);
+}
+#spany{
+    height: 45px;
+}
+.favy{
+    display: flex;
+    flex-wrap: wrap;
+}
+.removebtn{
+    background-color: #019875;
+    color: white;
+    border: 1px solid #019875;
+    font-size: 16px;
+    padding: 4px 6px;
+    border-radius: 4px;
+    margin-left: 150px;
+}
+.removebtn:hover{
+    background-color: white;
+    border: 1px solid #019875;
+    color: #019875;
+}

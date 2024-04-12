@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    font-family: 'Bree Serif', serif;
+    font-family: 'Pacifico', cursive;
+    height: 75px;
+    width: 100vw;
+    background-color: white;
+    box-shadow: 0px 2px 10px gray;
+    padding: 15px 0px 0px 250px;
+    position: fixed;
+    top: 0px;
+}
+.links{
+    font-size: 24px;
+    position: absolute;
+    top: 25px;
+    right: 250px;
+}
+.links a{
+    color: black;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.links a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.cart{
+    position: absolute;
+    top: 15px;
+    left: 185px;
+}

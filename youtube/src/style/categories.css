@@ -1,0 +1,14 @@
+.categories_links{
+    text-align: center;
+    margin: 18px 0px;
+}
+.categories_links a{
+    text-decoration: none;
+    margin: 0px 18px;
+    font-size: 16px;
+    color: black;
+    background-color: rgb(238, 236, 236);
+    padding: 5px 8px;
+    border-radius: 6px;
+    font-weight:600;
+}
