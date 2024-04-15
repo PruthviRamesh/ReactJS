@@ -1,0 +1,59 @@
+.loginOptions a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    margin-top: 0px;
+}
+.landingpage h1{
+    font-size: 44px;
+}
+.landingpage{
+    font-family: 'Bree Serif', serif;
+    font-family: 'Pacifico', cursive;
+    height: 170px;
+    /* background-color: rgb(82, 78, 78); */
+    color: white;
+    width: 400px;
+    border-radius: 8px;
+    position: absolute;
+    top: 300px;
+    right: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 16px rgb(57, 24, 24);
+}
+.land{
+    background-image: url("/public/library.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+    padding: 0px;
+    margin-top: 0px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#ulogin{
+    margin-left: 30px;
+    height: auto;
+    width: auto;
+    background-color: white;
+    padding: 4px 6px;
+    border-radius: 4px;
+}
+#alogin{
+    height: auto;
+    width: auto;
+    background-color: white;
+    padding: 4px 6px;
+    border-radius: 4px;
+}
+#ulogin:hover{
+    background-color: rgb(115, 27, 27);
+    color: white;
+}
+#alogin:hover{
+    background-color: rgb(115, 27, 27);
+    color: white;
+}

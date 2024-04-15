@@ -1,0 +1,55 @@
+.readbook{
+    display: flex;
+    margin: 30px;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Pacifico', cursive;
+    margin-top: 0px;
+}
+.first img{
+    height: 500px;
+    width: 500px;
+    margin-top: 20px;
+}
+.second{
+    margin-left: 10px;
+    justify-content:space-around;
+    font-weight: 100;
+    width: 750px;
+}
+.back{
+    margin-top:10px;
+    font-size: 18px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    margin-left: px;
+    background-color: black;
+    color: white;
+}
+.backy{
+    margin-top:10px;
+    font-size: 18px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+.back a{
+    text-decoration: none;
+    color:white;
+}
+.back a:hover{
+    color: black;
+}
+.back:hover{
+    background-color: gainsboro;
+}
+.main{
+    background-color: rgb(252, 252, 252);
+    width: 1340px;
+    margin: 20px auto;
+    padding: 12px 0px 1px 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgb(198, 197, 197);
+    margin-top: 160px;
+}
